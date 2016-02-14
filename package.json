@@ -1,0 +1,15 @@
+{
+  "name": "monocolor-orange-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "orange single color syntax highlight theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/Cerealkillerway/atom-monocolor-orange-syntax-theme.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
